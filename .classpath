@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/aop.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/core.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/ibatis.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/j2ee.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/misc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/persistCore.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/remoting.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/test.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/springjars/web.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/jars all/spcorejars.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/jars all/springjars.zip"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/mysql jar/mysql-connector-java-8.0.17/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yogesh/Downloads/JAR files/mysql jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/catalina.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://tomcat.apache.org/tomcat-8.5-doc/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/ecj-4.6.3.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-6.0.33-tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="F:/Software Downloaded/apache-tomcat-8.5.40/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
